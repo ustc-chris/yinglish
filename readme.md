@@ -1,6 +1,6 @@
 # 淫语翻译机！
 
-来自于https://github.com/RimoChan/yinglish和我的一些小修改
+来自于https://github.com/RimoChan/yinglish 和我的一些小修改
 
 示例：
 
